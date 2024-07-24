@@ -1,3 +1,6 @@
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/d121bb3d-d917-456b-8f7d-48dbf66f3ea3">
+
+
 ### Mathematical Formulation and Explanation
 
 The problem involves optimizing throughput by utilizing both GPU and CXL memory. Here's a step-by-step breakdown and conversion to LaTeX:
