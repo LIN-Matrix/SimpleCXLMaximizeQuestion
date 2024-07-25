@@ -1,3 +1,4 @@
+因为本问题求解的不是线性方程，所以stage_pre.py是不可以运行的，只是用来写一个思路。
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/789bc76f-3688-4760-8a2d-118f31a8a615">
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/933302b5-17e9-48f2-b627-593e9528e23d">
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/6fdadfb6-c468-45eb-b859-e903e5536491">
